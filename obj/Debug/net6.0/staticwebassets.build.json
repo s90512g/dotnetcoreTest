@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZO3CyTVCjw2UGLqGYtZCE8V0CUyvk0AxEgqmfUS/YYc=",
+  "Source": "dotnetcoreTest",
+  "BasePath": "_content/dotnetcoreTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
