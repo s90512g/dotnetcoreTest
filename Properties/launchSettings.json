@@ -19,15 +19,6 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "production": {
-      "commandName": "Project",
-      "dotnetRunMessages": true,
-      "launchUrl": "swagger",
-      "applicationUrl": "https://*:443;http://*:80",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Production"
-      }
-    },
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
